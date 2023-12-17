@@ -6,11 +6,8 @@
 ### CEO & Robot Hardware Developer
 이왕건(Wanggeon Lee) 
 
-### Robot Software Developer 
-[김정한(Jeonghan Kim)](https://github.com/Kim-JeongHan)
-
-### AI Researcher & Robot Developer
-[최찬역(Chanyeok Choi)](https://github.com/Angledsugar)
+### Robot && AI Software Developer 
+[김정한(Jeonghan Kim)](https://github.com/Kim-JeongHan), [최찬역(Chanyeok Choi)](https://github.com/Angledsugar)
 
 ### Full stack Web Developer
 [남윤재(Yunjea Name)](https://github.com/ujma1234)
