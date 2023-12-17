@@ -26,10 +26,10 @@ The goal of this project is to develop a photography studio automation system us
 <img src="https://github.com/Plan-Real/festival/assets/98142496/597527e0-32d3-46eb-8705-bbf7a7d7973e" width=80%/>
 
 ## AI
-### YOLO
+### YOLO(human recognition)
 <img src="image/3.jpg" width="360" height="270"/> 
 
-### AnimeGAN
+### AnimeGAN(change person's face for fun)
 <img src="image/1.jpg" width="360" height="270"/>
 
 ## Festival Server
